@@ -1,12 +1,13 @@
 {
   "name": "@boiseitguru/cookie-cutter",
   "description": "Browserify-compatible module to get and set cookies in the browser",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/boiseitguru/cookie-cutter.git"
   },
   "main": "index.js",
+  "types": "./@types/cookie-cutter.d.ts",
   "keywords": [
     "cookie",
     "browser",

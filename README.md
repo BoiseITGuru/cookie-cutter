@@ -1,6 +1,6 @@
 # cookie-cutter
 
-> This is a clone of the orginal cookie-cutter npm package, at some point substack deleeted their GitHub and I was worried about the package continuing to be available. All code was copied directly from the npm package and thus far has not been modified except for updating the package.json.
+> This is a clone of the orginal cookie-cutter npm package, at some point substack deleeted their GitHub and I was worried about the package continuing to be available. All code was copied directly from the npm package and thus far the only modification has been adding TypeScript support.
 
 > All credit for this package goes to it's orginal author James Halliday/Substack and any contributors who have contributed.
 
